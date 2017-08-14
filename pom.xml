@@ -6,7 +6,7 @@
   <packaging>war</packaging>
 
   <version>1.0-SNAPSHOT</version>
-  <name>ola openShift</name>
+  <name>Hola openShift</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -17,9 +17,9 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>hola</finalName>
+    <finalName>ROOT</finalName>
 
-
+<!--
     <plugins>
       <plugin>
       <groupId>org.apache.tomcat.maven</groupId>
@@ -30,6 +30,6 @@
       </configuration>
       </plugin>
     </plugins>
-
+-->
   </build>
 </project>
